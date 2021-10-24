@@ -4,7 +4,7 @@
 - 🏫 I'm currently a year 3 mechanical engineering student.
 - 🌱 I’m learning [ros](https://www.ros.org), and Japanese when I can get myself motivated.
 - 💬 Ask me anything about SpaceX.
-- 🖥 Checkout my website at [seanchok.com](https://seanchok.com)
+- 🖥 Checkout my website at [seanchok.com](https://seanchok.com).
 - ⚡ Fun fact: I can whistle pretty loud. 😙
 
 
