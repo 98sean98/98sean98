@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m working on [deploifai](https://deploif.ai), an MLOps infrastructure as a service provider.
-- 🏫 I'm currently a year 3 mechanical engineering student.
+- 🔭 I’m working on [deploifai](https://deploif.ai), an MLOps cloud infrasturcture as a service provider.
+- 🏫 I'm a mechanical engineering student with a minor in computer science.
 - 🌱 I’m learning [ros](https://www.ros.org), and Japanese when I can get myself motivated.
 - 💬 Ask me anything about SpaceX.
 - 🖥 Checkout my website at [seanchok.com](https://seanchok.com).
